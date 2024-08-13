@@ -1,2 +1,3 @@
-# ShaderPractice
+# ShaderTraining
+
 Shaderの勉強をするぷろじぇくとです
